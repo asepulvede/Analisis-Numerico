@@ -3,7 +3,6 @@ import sympy as sp
 import numpy as np
 from sympy import *
 import math
-from math import *
 x= symbols('x')
 
 def newton(fx,x0,maxI,tol):
